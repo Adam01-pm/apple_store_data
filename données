@@ -3,42 +3,42 @@
     "name": "iPhone 15",
     "price": "999 €",
     "color": "#2196F3",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/iphone15.jpeg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/iphone15.jpeg",
     "description": "Le dernier iPhone avec un appareil photo incroyable de 48 Mpx et le nouveau port USB-C."
   },
   {
     "name": "MacBook Air",
     "price": "1299 €",
     "color": "#9E9E9E",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/macbook_air.jpg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/MacbookAir.jpg",
     "description": "Ultra fin, ultra léger et surpuissant grâce à la puce Apple M3 pour travailler partout."
   },
   {
     "name": "AirPods Pro",
     "price": "279 €",
     "color": "#4CAF50",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/airpods_pro.jpeg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/AirpodsPro.jpeg",
     "description": "Réduction active du bruit deux fois plus performante et un son spatial personnalisé."
   },
   {
     "name": "Apple Watch",
     "price": "449 €",
     "color": "#FF9800",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/apple_watch.jpg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/AppleWatch.jpg",
     "description": "Votre partenaire santé idéal avec suivi du sommeil et détection des chutes."
   },
   {
     "name": "iPad Pro",
     "price": "1049 €",
     "color": "#9C27B0",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/ipad_pro.jpeg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/IpadPro.jpeg",
     "description": "L'écran le plus avancé au monde avec des performances graphiques de pointe."
   },
   {
     "name": "Magic Mouse",
     "price": "85 €",
     "color": "#009688",
-    "image": "https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DEPOT/main/images/magic_mouse.jpg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/MagicMouse.jpg",
     "description": "Une souris sans fil et rechargeable avec une surface Multi-Touch fluide."
   }
 ]
