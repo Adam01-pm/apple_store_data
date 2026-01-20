@@ -45,14 +45,14 @@
     "name": "AirTag",
     "price": "39 €",
     "color": "#FFFFFF",
-    "image": "https://github.com/Adam01-pm/apple_store_data/blob/main/airtag.jpeg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/airtag.jpeg",
     "description": "Repérez et retrouvez vos objets du quotidien en toute simplicité avec l'application Localiser."
   },
   {
     "name": "Apple Pencil Pro",
     "price": "149 €",
     "color": "#F5F5F7",
-    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/ApplePencilPro.jpg",
+    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/pencil.jpg",
     "description": "Une précision au pixel près et une latence ultra-faible pour dessiner et prendre des notes."
   }
 ]
