@@ -45,7 +45,7 @@
     "name": "AirTag",
     "price": "39 €",
     "color": "#FFFFFF",
-    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/Airtag.jpeg",
+    "image": "https://github.com/Adam01-pm/apple_store_data/blob/main/airtag.jpeg",
     "description": "Repérez et retrouvez vos objets du quotidien en toute simplicité avec l'application Localiser."
   },
   {
