@@ -40,19 +40,5 @@
     "color": "#009688",
     "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/MagicMouse.jpg",
     "description": "Une souris sans fil et rechargeable avec une surface Multi-Touch fluide."
-  },
-  {
-    "name": "AirTag",
-    "price": "39 €",
-    "color": "#FFFFFF",
-    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/airtag.jpeg",
-    "description": "Repérez et retrouvez vos objets du quotidien en toute simplicité avec l'application Localiser."
-  },
-  {
-    "name": "Apple Pencil Pro",
-    "price": "149 €",
-    "color": "#F5F5F7",
-    "image": "https://raw.githubusercontent.com/Adam01-pm/apple_store_data/main/pencil.jpg",
-    "description": "Une précision au pixel près et une latence ultra-faible pour dessiner et prendre des notes."
   }
 ]
